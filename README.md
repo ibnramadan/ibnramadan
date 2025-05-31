@@ -18,8 +18,6 @@ Hi there! I'm **Mohamed Ramadan**, a passionate iOS developer with over 6 years 
 ## 📺 My YouTube Channel
 📌 Check out my [YouTube channel](https://www.youtube.com/@MohamedRamadanHussien) where I share iOS tutorials, tips, and courses to help developers grow their skills.
 
-## 📊 GitHub Stats
-![Mohamed Ramadan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnramadan&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - 🌐 [YouTube Channel](https://www.youtube.com/@MohamedRamadanHussien)
